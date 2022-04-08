@@ -54,7 +54,7 @@ $ cd uol-back-de
 
 $ npm install
 
-$ npm run back
+$ npm run start
 ```
 
 ### Contributing
